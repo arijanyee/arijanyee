@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @arijanyee
+- 👋 Hi, I’m Ariana Williams
 - 👀 I’m interested in coding,fashion,and reading
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: arianaj.williams0306@gmail.com
+- - 📫 How to reach me: arianaj.williams0306@gmail.com
 - 😄 Pronouns: HER
 - ⚡ Fun fact: I have over 70 pair of sneakers
 
